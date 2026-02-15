@@ -44,7 +44,7 @@ $skipped = 0
 
 foreach ($file in $rtfFiles) {
     $relativeDir = $file.DirectoryName.Substring($resolvedInputRoot.Length).TrimStart('\')
-    $targetDir = if ($relativeDir -eq ".") { $resolvedOutputRoot } else { Join-Path $resolvedOutputRoot $relativeDir }
+    $targetDir = if ([string]::IsNullOrEmpty($relativeDir)) { $resolvedOutputRoot } else { Join-Path $resolvedOutputRoot $relativeDir }
     if (-not (Test-Path -LiteralPath $targetDir)) {
         New-Item -ItemType Directory -Path $targetDir | Out-Null
     }

@@ -1,0 +1,56 @@
+﻿Ksena, come with in, Alcuin beckoned, 
+“I have something to show you”
+Ksena looked towards Alcuin smiling 
+“Okay coming!”
+What did you want to show me?
+“Well, I thought since your ritual was today, I could do a ritual that we have for good luck!”
+"Oh okay, sounds fun. What do I have to do?”
+“Okay, kneel on the mat and close your eyes”
+Kneeling down, Ksena looked at xx one last time before closing her eyes slowly
+Alcuin mumbled a chant under his breath. It was not one Ksena reorganized; she understood most of the words, but there was a couple she didn’t know the meaning. Alcuin continued chanting, changing pitch and rhythm, but repeating the chant multiple times. Finally, he stopped. 
+“Okay, you can open your eyes now, feel any different?”
+“Well, I feel a bit more calm now. Maybe the ritual helped with that?” Oh Alcuin looked down.
+“But that was very interesting. Do you know what the words mean?” Alcuin peaked up at that. 
+“I don't know it’s one the elder does to all children so they have good luck hunting. We could ask him if you want too?”
+“No, no, it’s okay, I should head back soon. I still have to sneak back in, but thanks for doing the ritual for me!”
+
+Alcuin nodded. He hoped the ritual worked; he didn’t do it with their sister and after her ascension ritual she had stopped visiting, Ksena said she was just busy but Alcuin thought it was strange, they used to get along so well beforehand and nothing and he couldn’t sneak into the city; he had tried, but the barrier remained solid.
+
+Alcuin was glum, while Ksena belonged to the race. She had always been so friendly, and she regular come to visit, although it wasn’t acceptable and once she goes through the ritual, she would stop visiting.
+
+“Are you okay?” Ksena asked shaking his head. Alcuin nodded 
+“I'm okay, after your ascended you will have to come and visit me! And show me those special powers you always talk about. I have never seen an ascended before. I was out hunting the day you first visited with your mother.”
+
+“It’s a promise”, Ksena raised her hand to clasp his, the contrast was very different she had never had to do any sort of physical labor and her species was more delicate overall, his hands looked brutish by comparison, trying not to dwell on it he quickly shook her hand, 
+“it’s a promise, ill guide you back to at least the wall, even if I can’t come inside”
+“No, it’s okay, I have to hurry. They might even know where Ive come so be looking out past the wall trying.”
+
+// AI revised 
+
+Ksena, come in," Alcuin beckoned, "I have something to show you."
+Ksena looked towards Alcuin, smiling. "Okay, I'm coming! What did you want to show me?"
+"Well, I thought since your ritual is today, I could perform a good luck ritual for you!"
+"Oh, okay, sounds fun. What do I have to do?"
+"Kneel on the mat and close your eyes."
+Ksena knelt down, glancing at Alcuin one last time before slowly closing her eyes. Alcuin mumbled a chant under his breath. It was not one Ksena recognized; she understood most of the words, but there were a few she didn’t know. Alcuin continued chanting, changing pitch and rhythm, repeating the chant multiple times. Finally, he stopped.
+"Okay, you can open your eyes now. Feel any different?"
+"Well, I feel a bit calmer now. Maybe the ritual helped with that?" Ksena said.
+Alcuin looked down. "But that was very interesting. Do you know what the words mean?" he asked, looking back up.
+"I don't know. It’s one the elder does for all children so they have good luck hunting. We could ask him if you want to?"
+"No, no, it’s okay. I should head back soon. I still have to sneak back in, but thanks for doing the ritual for me!"
+Alcuin nodded. He hoped the ritual worked; he didn’t do it for their sister, and after her ascension ritual, she had stopped visiting. Ksena said she was just busy, but Alcuin thought it was strange. They used to get along so well, and now he couldn’t sneak into the city; he had tried, but the barrier remained solid.
+Alcuin was glum. While Ksena belonged to the race, she had always been so friendly, and she regularly visited, even though it wasn’t acceptable. Once she went through the ritual, she would stop visiting.
+"Are you okay?" Ksena asked, shaking his head. Alcuin nodded.
+"I'm okay. After you ascend, you will have to come and visit me! And show me those special powers you always talk about. I have never seen an ascended before. I was out hunting the day you first visited with your mother."
+"It’s a promise," Ksena said, raising her hand to clasp his. The contrast was striking; she had never done any sort of physical labor, and her species was more delicate overall. His hands looked brutish by comparison. Trying not to dwell on it, he quickly shook her hand. "It’s a promise. I'll guide you back to at least the wall, even if I can’t come inside."
+"No, it’s okay. I have to hurry. They might know where I’ve gone and be looking out past the wall," Ksena replied.
+
+Suggestions for Improvement:
+	1.	Dialogue Formatting: Ensure each speaker's dialogue starts on a new line for clarity.
+	2.	Consistent Tense: Maintain consistent tense throughout the narrative. Switches between past and present can confuse readers.
+	3.	Show, Don't Tell: Describe emotions and actions to show how characters feel rather than directly stating it. For example, "Alcuin nodded. He hoped the ritual worked" could be shown through his actions or expressions.
+	4.	Clarify Pronouns: Make sure pronouns clearly refer to the correct character to avoid confusion.
+	5.	Grammar and Punctuation: Fix minor grammatical errors and ensure correct punctuation, especially with dialogue tags.
+	6.	Smooth Transitions: Improve the flow of dialogue and actions to make transitions between scenes smoother.
+	7.	Character Thoughts: Italicize character thoughts to distinguish them from dialogue and narration.
+	8.	Expand Descriptions: Add more sensory details to enhance the setting and character actions, making the scene more vivid.
