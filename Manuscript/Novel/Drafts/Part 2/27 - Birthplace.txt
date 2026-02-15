@@ -1,4 +1,4 @@
-"This wasn't a village," Ksena said as she surveyed the city below her.
+﻿"This wasn't a village," Ksena said as she surveyed the city below her.
 
 From the ridge it looked impossible: a sprawling settlement larger than her home city, built by people her elders had dismissed as primitive tribes. Smoke rose from dozens of cook chimneys. Animal pens dotted the outer districts. Irrigation lines glinted in morning light.
 
@@ -52,15 +52,15 @@ Children running errands with no fear of silent patrol correction.
 
 "It's normal," Alcuin answered.
 
-They we're assigned a local contact, a young archivist named Sera, who led them to a lodging hall and then to a public records annex.
+They were assigned a local contact, a young archivist named Sera, who led them to a lodging hall and then to a public records annex.
 
 "You asked for birthplace registries?" Sera said while unlocking cabinets. "Most travelers ask for trade permits."
 
-"We're tracing lineage and old city splits," Ksena said.
+"were tracing lineage and old city splits," Ksena said.
 
 Sera raised an eyebrow but did not press.
 
-The records we're dense but surprisingly intact. Birth logs by district, migration lists after conflict periods, and one section marked "Founding Families - Coalition Era."
+The records were dense but surprisingly intact. Birth logs by district, migration lists after conflict periods, and one section marked "Founding Families - Coalition Era."
 
 Ksena froze when she recognized two surnames from her own city's elite council list.
 
@@ -144,7 +144,7 @@ At the gate, Sera walked them out.
 
 "One warning before you go," she said. "People who control stories rarely surrender them politely."
 
-"We're learning that," Alcuin said.
+"were learning that," Alcuin said.
 
 Sera gave Ksena a direct look. "Don't come back as conquerors. Come back as neighbors."
 
@@ -185,3 +185,4 @@ Then, after a moment:
 The archive vault beneath the old district held maps that predated both current factions.
 
 Ksena traced one route with her finger and realized the split between "city" and "tribe" had not begun as culture. It had begun as policy. Alcuin copied the key pages while Kirk photographed the rest for redundancy. They left with proof that history had been edited, and with the knowledge that proof alone would not protect them when they tried to publish it.
+

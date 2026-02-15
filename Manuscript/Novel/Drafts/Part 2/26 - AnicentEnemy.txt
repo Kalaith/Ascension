@@ -1,4 +1,4 @@
-It should be here. It had to be.
+﻿It should be here. It had to be.
 
 Ksena stood on a wind-scoured rise and looked down at the broken city from her ritual images. Only ruins remained: cracked streets swallowed by grass, tilted walls, and hollow towers with birds nesting where commanders once stood.
 
@@ -6,7 +6,7 @@ Ksena stood on a wind-scoured rise and looked down at the broken city from her r
 
 "From the image, yes."
 
-"Then either your image was old or your elders we're afraid of ghosts."
+"Then either your image was old or your elders were afraid of ghosts."
 
 Ksena did not answer.
 
@@ -14,7 +14,7 @@ She climbed down into the ruins anyway, stepping over collapsed stone and roots 
 
 She stopped in what had once been a central square. The shape was still visible beneath debris.
 
-"I saw this," she whispered. "In the ritual. There we're fire lines here. Ascendants and... them."
+"I saw this," she whispered. "In the ritual. There were fire lines here. Ascendants and... them."
 
 "Who are 'them' exactly?" Alcuin asked.
 
@@ -28,7 +28,7 @@ Second pass: artifacts and inscriptions.
 
 Third pass: route viability and threat checks.
 
-Most structures we're too damaged to enter safely. One archive-like hall retained half a roof and interior wall panels etched with symbols unlike city script.
+Most structures were too damaged to enter safely. One archive-like hall retained half a roof and interior wall panels etched with symbols unlike city script.
 
 Alcuin ran his hand over the panel.
 
@@ -183,3 +183,4 @@ They left the ruin by the north road while dawn was still gray. Alcuin carried t
 "No more guesses," Alcuin agreed.
 
 The next stop would not be about faith or memory. It would be about proof.
+

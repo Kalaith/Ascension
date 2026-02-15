@@ -1,8 +1,8 @@
-Ksena kept repeating the same thought while she stared over the blackened stone.
+﻿Ksena kept repeating the same thought while she stared over the blackened stone.
 
 If the humans didn't level the city, what did?
 
-Smoke still drifted from broken towers in thin ribbons, too little for a fresh bombardment, too much for old ruin. The damage pattern made no sense. Some blocks we're shattered outward as if something had exploded inside the city, while outer walls stood mostly intact.
+Smoke still drifted from broken towers in thin ribbons, too little for a fresh bombardment, too much for old ruin. The damage pattern made no sense. Some blocks were shattered outward as if something had exploded inside the city, while outer walls stood mostly intact.
 
 Alcuin crouched beside a fallen marker and ran his fingers over the edge.
 
@@ -118,7 +118,7 @@ She stared into the low coals.
 
 "If my people did this, what does that make me?"
 
-Alcuin answered immediately. "Not responsible for what you we're never told."
+Alcuin answered immediately. "Not responsible for what you were never told."
 
 "It still runs through me."
 
@@ -157,3 +157,4 @@ And somewhere inside those layers sat the truth she needed, whether she was read
 Ksena rewrote their list three times before she was satisfied: what they knew, what they suspected, and what would kill them if they guessed wrong.
 
 When Alcuin reviewed it, he crossed out two assumptions and replaced them with one instruction. "Confirm before acting." She nodded and folded the page into her jacket. They could survive fear. They could not survive building plans on the same lies that had already burned a village.
+

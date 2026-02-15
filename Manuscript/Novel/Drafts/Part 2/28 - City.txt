@@ -1,6 +1,6 @@
-The city was amazing.
+﻿The city was amazing.
 
-Everywhere Ksena looked, the architecture held echoes of her own home and yet nothing matched exactly. Streets we're wider. Towers we're shorter but thicker. Gardens we're not ornamental circles of curated flowers; they we're working terraces full of vegetables, fruit trees, and irrigation channels.
+Everywhere Ksena looked, the architecture held echoes of her own home and yet nothing matched exactly. Streets were wider. Towers were shorter but thicker. Gardens were not ornamental circles of curated flowers; they were working terraces full of vegetables, fruit trees, and irrigation channels.
 
 "This is what a city looks like when it expects hunger," Alcuin said.
 
@@ -48,7 +48,7 @@ Ksena hesitated. "Not here."
 
 The clerk gave her a long look, then wrote anyway.
 
-They we're assigned a holding guide named Ressa, a practical woman in worn leather with city insignia stitched at the shoulder.
+They were assigned a holding guide named Ressa, a practical woman in worn leather with city insignia stitched at the shoulder.
 
 "You get one day permit," Ressa said while leading them into the main district. "Renewable if no incidents. Start with market and lodging. If you want archives, request through me."
 
@@ -80,7 +80,7 @@ When she finished, he sat back slowly.
 
 "Can you confirm the collapse cause?" Alcuin asked.
 
-Halven nodded toward a shelf. "I can confirm there we're multiple causes. External attack pressure, yes, but also internal power conflict and ritual doctrine schism."
+Halven nodded toward a shelf. "I can confirm there were multiple causes. External attack pressure, yes, but also internal power conflict and ritual doctrine schism."
 
 Ksena's chest tightened. "So it wasn't one enemy."
 
@@ -155,3 +155,4 @@ For the first time since exile, Ksena felt not just anger at what she had lost, 
 The city council called it hospitality, but every corridor had armed eyes and timed doors.
 
 Ksena answered questions carefully and gave nothing away that could expose their contacts. Alcuin stayed half a step behind her, reading exits instead of speeches. By the end of the meeting, they had temporary access, strict movement limits, and one small concession: supervised review of lineage records at first light.
+
