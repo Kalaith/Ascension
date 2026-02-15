@@ -1,0 +1,79 @@
+Writers Voice Guide - Ascension (Parts 1-4)
+
+Purpose
+- Use this file as a rule set for drafting new chapters in the same voice as the existing novel.
+- Preserve tone, pacing, and character feel without copying exact scenes.
+
+Core Voice
+- Write in close third person, usually centered on Ksena or Alcuin.
+- Keep the prose direct, emotional, and action-aware rather than literary or abstract.
+- Blend sci-fi and fantasy naturally: ships, barriers, crystals, ascension flames, rituals.
+- Keep stakes personal first (family, trust, exile), then widen to city/world stakes.
+
+Narrative Rules
+- Stay anchored to what the POV character sees, feels, and fears in the moment.
+- Use internal reactions often, especially doubt, resolve, jealousy, guilt, or hope.
+- Prefer concrete details over exposition dumps.
+- Explain lore through dialogue, discovery, or conflict, not long history blocks.
+- Keep momentum forward; each scene should end with a decision, reveal, or new risk.
+
+Sentence and Rhythm Rules
+- Use medium and long sentences for reflective passages.
+- Use short sentences for danger, reveals, and emotional hits.
+- Use comma-linked flow to keep urgency, but keep meaning clear.
+- Keep paragraphs short to medium; break often during dialogue/action.
+- Favor plain words over technical phrasing.
+
+Dialogue Rules
+- Dialogue is frequent and drives plot progression.
+- Characters speak plainly and emotionally, not with polished speeches.
+- Use dialogue to reveal relationships, not just information.
+- Add quick physical beats around dialogue (glance, blush, nod, pause, hand movement).
+- Keep banter light even in high-stress scenes to maintain warmth.
+
+Character Voice Rules
+- Ksena: curious, determined, emotionally open, relationship-driven, increasingly strategic.
+- Alcuin: protective, practical, loyal, physically grounded, sometimes insecure.
+- Grandmother/elder figures: pragmatic, historical perspective, mission-focused.
+- Kirk/humans: outside perspective, tech contrast, alliance bridge, occasional humor/romance tension.
+
+Scene Construction Rules
+- Start with a clear immediate situation (travel, stealth, confrontation, ritual, briefing).
+- Add friction quickly (enemy risk, emotional conflict, uncertainty, timing pressure).
+- Include one key beat per scene:
+- Beat options: lore reveal, power use, relationship shift, tactical choice, setback, or win.
+- End with a hook into the next scene (new objective, threat, or unresolved tension).
+
+Worldbuilding Rules
+- Reuse core anchors across chapters:
+- Anchors: ascension, control crystal, city barrier, temples, elders, tribe-city divide, human alliance.
+- Show cultural contrast regularly (city formality/control vs tribe survival/freedom).
+- Keep power mechanics consistent: ascension energy has physical cost and tactical limits.
+
+Tone Balance Rules
+- Keep tone serious but hopeful.
+- Pair heavy moments with human warmth (care, teasing, loyalty, attraction, family concern).
+- Violence and loss matter, but recovery and rebuilding are always present.
+- Romance should support character growth and alliance dynamics, not replace plot.
+
+Chapter Blueprint (Default)
+1. Opening state: where the POV is and what they need right now.
+2. Immediate complication: obstacle, interruption, or emotional pressure.
+3. Movement: travel, infiltration, training, ritual, or negotiation.
+4. Reveal: new truth, tactical insight, or character shift.
+5. Choice: what they commit to next.
+6. Exit hook: unresolved danger or promise that pulls into next chapter.
+
+Style Guardrails
+- Do not switch POV inside the same paragraph without a clear break.
+- Do not over-explain history already known by core characters.
+- Do not make dialogue overly formal.
+- Do not resolve major conflict too quickly; allow consequences and recovery beats.
+- Keep chapter outcomes mixed (win with a cost, progress with a new risk).
+
+Continuity Checklist Before Finalizing a Chapter
+- POV is consistent and emotionally clear.
+- At least one relationship beat is present.
+- At least one plot/progression beat is present.
+- Lore references match established rules (ascension/barrier/crystal/temples).
+- Ending creates forward momentum.
