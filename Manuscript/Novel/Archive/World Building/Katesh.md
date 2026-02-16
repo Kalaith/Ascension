@@ -1,0 +1,13 @@
+# Katesh
+
+Katesh felt something calling him. It was tiny now; its power was growing every day. First it was a spark, now a small fire, and it beckoned him. He traveled day and night towards this flame. The flame called to him; some days it would flicker and others it would roar up, but overall it kept growing. By the time Katesh got close, it felt like a sun, that he wanted to lay under it and let his coat absorb the heat and empower him.
+
+Finally he found *her*. She was the one. While another fire burned beside her, hers was larger, more refined. He wanted this power to be his alone, to be one with it.
+
+They could sense him. He could feel their eyes turn towards his direction as she brought her flames up to prepare herself to be attacked. He knew now was the time. Rushing at her, he nimbly dodged the male in his way. Her power would be his. Her blast caught him midair. The flame was warm, caring, and it was his. The fire was pulled inside himself, his fur shone as her flames empowered it, and ancient symbols soon formed across his body. The pact was formed. From now on he would protect her and she would share her power. Landing on his feet before her, he could see amazement in her eyes, and he was sated now. Her power fulfilled his needs more than any kill, and he would fight tooth and claw—or use the flames his mistress had given him—to keep her safe from the world.
+
+Katesh looked back at the male to make sure he wasn't a threat, but he had already backed off. Katesh could feel his own flame react at Katesh appearance. Maybe one day he would find a partner of his own when his flame grew bright enough. For now, Katesh moved closer to Ksena and rubbed his fur against her. The flames would not hurt her; after all, they were as much her flames as his. As she moved a hand down to run across his fur, he arched his back and purred in content. This one would work out just fine. Curling up by her feet, Katesh drifted off to sleep.
+
+## The Bond
+
+Ksena yelped as his fur touched her, but it didn't burn like she expected. The flame felt familiar, like when she was using it to attack. She didn't know anything about this cat-like creature that had appeared before her, but it appeared sated now. Haltingly she ran her fingers over his coat which got a content purr. Sitting down beside him, Ksena looked over to Alcuin who was still staring at the couple. The cat curled up beside her and drifted off to sleep. Whatever the cat had done must have been exhaustive, but Ksena knew that she had just gained a partner for life. Even asleep she felt like he would move to protect her if danger threatened her right now. For whatever reason this cat had chosen her, and Ksena wasn't going to separate herself from him willingly.
