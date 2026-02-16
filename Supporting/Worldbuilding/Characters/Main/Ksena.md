@@ -1,23 +1,26 @@
-﻿# Ksena
+# Ksena
 
 Final Alignment: Main protagonist (anti-regime coalition)
 
 Description:
-- Sixteen-year-old city-born candidate who rejects inherited control.
-- Incomplete early ascension leaves her unstable at first, then uniquely capable of unlocking older distributed ascension methods.
-- Driven by conscience, protection of civilians, and truth about stolen ritual history.
+- Sixteen-year-old city-born candidate raised inside elite power but with limited personal belonging.
+- Younger sibling in a family where older sisters ascended before her, intensifying isolation and comparison pressure.
+- Initially under-watched due to nepotism and assumptions of low threat.
+- Incomplete early ascension leaves her unstable at first, then uniquely capable of disrupting command-conditioned systems.
 
 Key Moments:
-- Fails ritual in the crystal hall and is sentenced to banishment.
+- Fails ritual in the crystal hall and is recast by leadership as both anomaly and tracking opportunity.
+- Forced into exile framework that doubles as a regime probe for outside resistance links.
 - Builds alliances across villages, archives, and human contact teams.
-- Discovers historical evidence that ascension was communal before elite capture.
+- Discovers evidence that ascension was communal before elite capture.
 - Leads operations that expose regime crimes and break crystal command infrastructure.
-- Confronts Kalani repeatedly and survives final city-scale collapse.
+- Witnesses Kalani's final collapse after repeated failed off-ramps to de-escalation.
 
 Major Interactions:
 - Alcuin: closest partner, tactical and emotional anchor.
-- Kalani: sister conflict that shifts from fear/hope to open lethal opposition.
-- Kirk and Hale: critical off-world alliance enabling intel, logistics, and coordinated operations.
+- Kalani: sister conflict moving from fear/hope to lethal opposition with late tragedy.
+- Theron (father): true strategic antagonist using council structure as facade.
+- Kirk and Hale: off-world alliance enabling intel, logistics, and coordinated operations.
 - Grandmother: core mentor in discipline, legitimacy, and reconstruction.
 
 Final-Alignment Notes:
@@ -43,4 +46,3 @@ Capabilities:
 
 Narrative Function:
 - Embodies the transition from survival protagonist to systems-level reform leader.
-
