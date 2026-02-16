@@ -1,8 +1,10 @@
 Ksena found the pages in a cracked records chest behind a collapsed wall, wrapped in waxed cloth that had gone hard with age.
 
-Most archive bundles held inventories, ration tallies, and council orders. This one held a handwritten account in a private voice, copied at least twice by different hands, with the final page stamped as restricted under an old seal no current office still used.
+The chamber sat beneath first-temple approach, one level lower than the altar corridor and two levels above the oldest maintenance tunnels. Dust hid most of the floor symbols, but the lock architecture still matched what she had seen in the hidden station.
 
-She read the first section and froze.
+Most archive bundles held inventories, ration tallies, and command orders. This one held a handwritten account in a private voice, copied by at least two hands, with the final page stamped under a restricted seal no current office still used.
+
+She read three lines and froze.
 
 Alcuin watched her face.
 
@@ -10,9 +12,11 @@ Alcuin watched her face.
 
 "Useful," she said. "And dangerous."
 
-They moved camp under cover before sunset, set one lantern low, and spread the pages between them.
+Estele sealed the chamber entrance and set one lantern low.
 
-Ksena read aloud in short excerpts, then stopped each time to test claims against known records.
+"Read fast," she said. "Then we move before dawn."
+
+Ksena sat cross-legged on cold stone and read aloud in short excerpts while Alcuin cross-checked map references and Estele watched the corridor.
 
 Excerpt one:
 
@@ -20,15 +24,15 @@ Excerpt one:
 
 Alcuin tapped a margin note.
 
-"Matches the burned district casualty dates from the north archive."
+"Matches the burned-district casualty windows from north archive references."
 
 Excerpt two:
 
 "At the final temple, one man rose in fire and did not burn. Others followed."
 
-Ksena checked the copying hand.
+Ksena checked copying hand.
 
-"Different scribe from page one. This section was added later, but still old."
+"Different scribe from page one. Added later, but still old."
 
 Excerpt three:
 
@@ -38,70 +42,157 @@ Silence settled.
 
 Alcuin looked up.
 
-"If true, your city did not inherit leadership. It inherited retreat and called it destiny."
+"If true, your city didn't inherit leadership. It inherited retreat and called it destiny."
 
 "If true," Ksena said. "So we prove it."
 
-She copied only verifiable lines into her field book and marked every uncertain claim with source doubts, date gaps, and cross-reference targets.
+She copied only verifiable lines into her field book and marked uncertain claims with source doubts, date gaps, and cross-reference targets.
 
-Ksena found the pages in a cracked records chest behind a collapsed wall, wrapped in waxed cloth that had gone hard with age.
+By first light they had a work list instead of a myth list:
 
-Most archive bundles held inventories, ration tallies, and council orders. This one held a handwritten account in a private voice, copied at least twice by different hands, with the final page stamped as restricted under an old seal no current office still used.
+1. Validate temple locations named in the memoir.
+2. Match casualty windows to independent civic ledgers.
+3. Identify when sealed-city narrative replaced shared-history records.
+4. Track who classified the original bundle as restricted.
 
-She read the first section and froze.
-
-Alcuin watched her face.
-
-"Bad?"
-
-"Useful," she said. "And dangerous."
-
-They moved camp under cover before sunset, set one lantern low, and spread the pages between them.
-
-Ksena read aloud in short excerpts, then stopped each time to test claims against known records.
-
-Excerpt one:
-
-"The war began without warning... our weapons failed... temple rites were reopened in desperation."
-
-Alcuin tapped a margin note.
-
-"Matches the burned district casualty dates from the north archive."
-
-Excerpt two:
-
-"At the final temple, one man rose in fire and did not burn. Others followed."
-
-Ksena checked the copying hand.
-
-"Different scribe from page one. This section was added later, but still old."
-
-Excerpt three:
-
-"We won, and then the ascended left us. They built a sealed city and gave no answer for why."
-
-Silence settled.
-
-Alcuin looked up.
-
-"If true, your city did not inherit leadership. It inherited retreat and called it destiny."
-
-"If true," Ksena said. "So we prove it."
-
-She copied only verifiable lines into her field book and marked every uncertain claim with source doubts, date gaps, and cross-reference targets.
-
-By first light they had a work list instead of a myth list.
-
-"First," Ksena said, "we validate the temple locations named in the memoir. That's our starting point."
-
-Alcuin nodded. "Then match casualty windows to independent civic ledgers. If the dates align, we have something."
-
-"Right," she agreed. "Next, identify when the sealed-city narrative replaced shared-history records. That'll show us the cover-up timeline."
-
-"And finally," Alcuin added, "track who classified the original bundle as restricted. Names mean motives."
-
-Ksena tied the pages back into waxed cloth.
+Ksena tied pages back into waxed cloth.
 
 "No speeches," she said. "No belief tests. Only proof."
 
-They packed before dawn and moved north with one more document that someone had tried very hard to bury.
+Estele shouldered her pack.
+
+"Good," she said. "Because the next two days are movement, not ideology."
+
+They exited temple line under low cloud and moved north through bad ground that looked flat until it broke ankles.
+
+By midday they reached an abandoned relay district where old industrial structures stood in long rows, roofs partially collapsed, walls tagged by scavenger codes from three different tribes.
+
+The place smelled like rust, wet mineral, and chemical residue old enough to fade but not disappear.
+
+Ksena stopped at the edge of a turbine hall and stared at rows of dead machines larger than any city transport she'd ever seen.
+
+"What is this?" she asked.
+
+Alcuin stepped inside and ran his hand over corroded casing.
+
+"Power conversion. Maybe water pumping linked to city grids."
+
+Estele checked sky arcs and waved them deeper inside.
+
+"Local calls it the Iron Lung," she said. "Used to feed three settlement corridors. Now it mostly feeds stories about what we lost."
+
+Ksena moved between machine banks, reading stamped labels in mixed script.
+
+"These aren't single-culture builds," she said. "City marks, tribal assembly runes, and something older."
+
+"Joint manufacturing era," Estele said. "Before ritual authority swallowed engineering councils."
+
+That line lodged in Ksena's chest harder than she expected.
+
+She had grown up in a city that called villages primitive.
+
+Now she stood in proof that villages and cities once built systems together at scale her own generation barely understood.
+
+At the back of the hall they found maintenance logs preserved in sealed metal box.
+
+Final complete entry was seventy-three years old.
+
+After that: fragmentary repairs, emergency bypasses, and repeated references to output instability blamed on "unqualified local interventions."
+
+Alcuin snorted.
+
+"Translation: command abandoned maintenance teams and blamed survivors for not replacing specialists they imprisoned."
+
+Ksena did not argue.
+
+She photographed every readable page with Kirk's compact scanner and tagged files by date confidence.
+
+In adjacent control room, Estele discovered a map board with route lights half-functional.
+
+Three lights still pulsed weak amber.
+
+"What does amber mean?" Ksena asked.
+
+Estele traced lines.
+
+"Active enough to fail dangerously," she said. "Not active enough to trust."
+
+That seemed to summarize half the world.
+
+They camped in an equipment bay above flood line, no fire, one lantern shielded by sheet metal.
+
+During second watch, distant white flare lit southern horizon.
+
+Ksena sat up.
+
+"Signal?"
+
+"Could be targeting calibration," Estele said. "Could be patrol confirmation. Doesn't matter. We move at first gray."
+
+At dawn they crossed to reservoir basin connected to the same industrial spine. Cracked channels ran empty where water should have flowed. Entire neighborhoods built around old pump towers now survived on hand-carried barrels.
+
+Two elders at a ration queue recognized Estele and let them pass under local custom.
+
+"Two hours," one elder said. "Then leave before district patrol changes."
+
+Ksena spent those two hours listening.
+
+A machinist with burned hands explained how his grandmother's generation had maintained turbine harmonics by listening for pitch drift with simple tuning rods.
+
+A teacher explained how children now memorized names of systems they would never see functioning.
+
+A former city technician admitted command offices still drew emergency power from old grids while refusing to release full maintenance schematics to outer settlements.
+
+"Control through scarcity," Alcuin said once they stepped away.
+
+"Control through expertise monopoly," Ksena corrected.
+
+Both were true.
+
+By dusk of day two they reached relay house marker where Estele split routes as planned.
+
+"I run west warning lanes," she said. "You two move north line and do not stop in open ground. If I miss second dusk rejoin, assume delay and continue fallback."
+
+Ksena nodded.
+
+"Second dusk. Relay house."
+
+Estele tapped two fingers to map cloth.
+
+"Stay alive long enough for me to catch up."
+
+After she left, Ksena and Alcuin moved through dry gullies under moonlight. No speech for first hour.
+
+Then Ksena said what she had been holding since turbine hall.
+
+"I used to think regime power came from ascension alone," she said. "Now I think it came from taking industrial stewardship and turning it into permission structure."
+
+Alcuin adjusted his pace to her stride.
+
+"If people can't maintain water, light, and transport without command approval, command never needs to win arguments," he said. "It only needs to delay repairs."
+
+That sentence became part of her working doctrine immediately.
+
+At camp she added a new heading to her slate below known/suspected/unverified:
+
+Infrastructure leverage.
+
+Under it she wrote:
+
+- Legacy systems are mixed-culture origin.
+- Current command controls manuals, specialist training, and spare-part routes.
+- Outer settlements forced into managed dependency.
+
+She closed slate and looked at Alcuin.
+
+"If we ever break crystal control," she said, "we still lose unless we restore shared maintenance literacy."
+
+"Then add it to your war list now," he said.
+
+"Done."
+
+By dawn they were already moving toward the next burn line and the next set of evidence.
+
+Part 2 had stopped being only about proving old lies.
+
+It was now about understanding the system that kept those lies operational.

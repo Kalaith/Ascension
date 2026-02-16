@@ -100,7 +100,7 @@ Ksena crouched beside a cracked marker slab and brushed soot from engraved lines
 
 Estele looked over her shoulder.
 
-"Council split?"
+"Elder split?"
 
 Ksena nodded.
 
@@ -124,6 +124,22 @@ She looked at him and nodded.
 
 By morning they had a route: follow the archive reference north, avoid open ridges where Kalani or scouts could spot them, and use Estele's local contacts only where absolutely necessary.
 
+At the first fork after sunrise, Estele stopped and pointed west.
+
+"I peel off here for one day," she said. "I can warn two settlements and scrub your movement trace before city spotters lock this lane."
+
+Alcuin frowned. "We move without guide through open country?"
+
+"You move on the line we just set," Estele said. "I rejoin at relay house marker by second dusk. If I don't, assume compromised and continue north."
+
+Ksena held her gaze, then nodded.
+
+"Second dusk. Relay house marker."
+
+Estele tapped two fingers to map cloth.
+
+"Stay alive long enough for me to catch up."
+
 As they packed, Ksena looked once more at the blackened skyline.
 
 She had entered exile believing one clear villain would explain everything.
@@ -143,3 +159,63 @@ Ahead, the first city that still kept records waited beyond two days of hard gro
 She adjusted the carved bird hidden in her sleeve and kept walking.
 
 If this war had always been built on edited history, then survival depended on finding the unedited version before someone burned that too.
+
+They made one more stop before full night, a half-collapsed relay annex on the edge of an old industrial lane. Estele called it a "dead lung" station, once tied to regional pump pressure and now used mainly as shelter by whoever could hold it.
+
+Ksena traced rusted pipework running through the wall and realized the lines still connected to something farther north.
+
+"These feeds are intact," she said.
+
+Estele nodded.
+
+"Intact enough to fail catastrophically if someone forces output from central command without local balancing."
+
+Alcuin looked between them.
+
+"Meaning?"
+
+"Meaning infrastructure is now weapon terrain," Estele said. "Not just villages and roads."
+
+They found a chalkboard in side room where someone had left emergency maintenance notes in mixed script:
+
+- purge vent before dawn,
+- never trust gauge three,
+- if pressure rises with dry line, suspect remote override.
+
+Ksena copied all of it.
+
+"This is the same pattern as the burn sites," she said. "Control from distance, consequence on people with no authority."
+
+Alcuin rested spear against wall and rubbed his eyes.
+
+"I used to think war meant armies."
+
+"War means systems too," Ksena said.
+
+They ate in darkness, no fire, and reviewed the cloth chart she'd started after the village attack:
+
+Known.
+Suspected.
+Unverified.
+
+Under known she added one new line.
+
+Legacy infrastructure remains active enough to be leveraged.
+
+Under suspected she added another.
+
+Command may be using maintenance chokepoints to pressure settlements without open military action.
+
+Estele read the entries and gave one short approving nod.
+
+"Keep writing like that," she said. "People can argue stories. Harder to argue patterns."
+
+At first light, they moved again.
+
+The road ahead looked empty.
+
+Ksena knew better now.
+
+Nothing in this phase was empty.
+
+Everything was either neglected, hidden, or actively used by someone pretending it wasn't power.

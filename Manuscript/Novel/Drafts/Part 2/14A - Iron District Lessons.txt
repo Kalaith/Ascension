@@ -1,0 +1,241 @@
+Alcuin rejoined Ksena and Estele three days after village council closed, mud to his knees and smoke in his jacket from half a dozen campfires.
+
+"Your village?" Ksena asked before he had fully dropped his pack.
+
+"Thinking, arguing, not dead," he said. "Best possible outcome this week."
+
+Estele handed him water and unrolled fresh route cloth.
+
+"Good. Because we need your hunter eyes in the Iron District."
+
+Ksena looked up.
+
+"Iron District?"
+
+"Old industrial belt east of scholar basin," Estele said. "Where your ancestors built manufactories before command lines split design from labor."
+
+They moved at dawn and reached the district by second afternoon.
+
+From a distance it looked like a dead forest made of towers.
+
+Up close it was worse.
+
+Smelter stacks cracked open like broken teeth.
+
+Rail gantries twisted and half-collapsed.
+
+Conveyor channels filled with dust and windblown bone-dry reeds.
+
+And everywhere, signs of partial use: patched hand tools, improvised bridge planks, ladders bolted where proper lifts had failed decades ago.
+
+"People still work here," Ksena said.
+
+"People survive here," Estele corrected.
+
+At district gate, wardens in mixed clothing checked writs and scanned for open flame signatures.
+
+Their lead warden, Tolen's cousin by badge mark, glanced at Ksena's permit and waved them through with caution.
+
+"No sudden ignition in load halls," he said. "Gas pockets still vent unpredictably."
+
+Inside, noise hit like weather.
+
+Hammer rhythm.
+
+Chain drag.
+
+Steam hiss from makeshift pressure lines.
+
+Children sorting scrap by alloy tone.
+
+Elders teaching hand-repair techniques beside manuals too faded to read.
+
+Ksena stopped under the frame of a decommissioned turbine and watched a team of six rebuild bearing housings using mismatched parts and oral instruction.
+
+No one there waited for command approval.
+
+No one expected command help.
+
+A woman with oil-blackened sleeves approached and introduced herself as Foremaster Jina.
+
+"You're the one asking archive questions," she said to Ksena. "If you're here to write a report, write this first: we can keep things running. We cannot keep them optimal without schematics your city locked in private vaults."
+
+"We're not here to audit you," Ksena said. "We're here to learn how this system used to work and why it was allowed to fail."
+
+Jina studied her face, then shrugged.
+
+"Then walk."
+
+They walked for four hours through districts named by function rather than politics:
+
+- Pump Spine,
+- Alloy Court,
+- Rail Knot,
+- Heat Exchange Yard.
+
+Everywhere, same pattern.
+
+Original design assumed trained multi-team rotation and standardized part flow.
+
+Current reality relied on local improvisation and shrinking tool quality.
+
+At Pump Spine, Jina opened a panel and showed cracked ceramic couplers replaced with woven-metal wraps.
+
+"This buys us weeks," she said. "Maybe months."
+
+"Why not replace with proper couplers?" Alcuin asked.
+
+Jina laughed without humor.
+
+"Because proper couplers are allocated by command index and routed first to inner districts that never acknowledge these pumps exist."
+
+At Alloy Court, an older engineer named Perek showed Ksena a ledger older than her mother. It documented maintenance intervals by sound profile and vibration signature.
+
+"My grandmother learned this from city engineers and tribe machinists in the same room," Perek said. "Then command split certification pathways and called mixed training unsafe."
+
+"Unsafe for who?" Ksena asked.
+
+Perek met her eyes.
+
+"For monopoly."
+
+Near evening, pressure alarm sounded across Heat Exchange Yard. Workers moved instantly into practiced emergency pattern.
+
+No panic.
+
+No shouting.
+
+Just speed.
+
+Estele grabbed Ksena's sleeve and pulled her behind shield wall as vent stack blew white steam into open lane.
+
+When pressure dropped, Jina wiped sweat from her brow and looked at Ksena.
+
+"That was a minor event," she said. "Major event is when we lose feedwater and city command decides whether our district rates intervention."
+
+"Rates?"
+
+"Priority matrix," Jina said. "Life support translated into policy score."
+
+That sentence rewired something in Ksena permanently.
+
+Back in temporary lodging, she and Alcuin spread notes over floor while Estele checked route risks for next day.
+
+Ksena's list kept growing:
+
+- cultural memory of shared engineering still alive,
+- maintenance literacy preserved locally,
+- infrastructure choke points intentionally centralized,
+- failure blamed on people denied tools.
+
+Alcuin tapped one line.
+
+"This isn't just decay," he said. "It's managed decay."
+
+Ksena nodded.
+
+"Managed enough to keep dependency, not enough to keep dignity."
+
+At dawn they visited Rail Knot, where freight lines once linked city cores to outer settlements. Now only three lines remained partially functional, each controlled by command-issued switch keys.
+
+A teenage switch-runner named Rin demonstrated manual override using weighted rods and counting cadence instead of dead signal software.
+
+"We can move food if we have permission keys," Rin said. "Without keys, we move rumors."
+
+"Who holds keys?" Ksena asked.
+
+"People who don't ride these tracks," Rin said.
+
+By midday, district bell called assembly.
+
+Jina asked Ksena to speak. Ksena refused platform at first, then accepted after workers insisted on one direct answer.
+
+"If command falls," Jina said in front of everyone, "do we get manuals and training rights, or do we get another speech about patience?"
+
+Ksena held crowd silence for one long beat.
+
+"If command falls and manuals stay locked, nothing has changed," she said. "If training stays inherited instead of shared, nothing has changed."
+
+She pointed toward Pump Spine.
+
+"I am not here promising rescue. I am here acknowledging authority cannot be legitimate while it depends on technical illiteracy outside protected districts."
+
+No cheering.
+
+Only nods.
+
+This was not a speech crowd.
+
+It was a systems crowd.
+
+After assembly, Jina handed Ksena a wrapped packet.
+
+Inside: copied maintenance tables, oral-training prompts, and a list of districts likely to fail within two seasons if supply policy remained unchanged.
+
+"Take it," Jina said. "If you're serious, you'll need numbers before rhetoric."
+
+Ksena accepted with both hands.
+
+"Thank you."
+
+As they left the Iron District at dusk, Estele looked back at the smoke columns and said what none of them had wanted to admit out loud.
+
+"If the enemy fleet hits hard," she said, "these systems fail before armies do."
+
+Alcuin adjusted his pack.
+
+"Then defense planning starts in machine halls, not only war rooms."
+
+Ksena sealed Jina's packet in oil wrap.
+
+"And rebuilding starts with who is allowed to know how things work."
+
+They moved toward the next rendezvous carrying more than evidence.
+
+They carried an industrial map of vulnerability and a blueprint for how power had been hidden in maintenance policy for generations.
+
+Before leaving Iron District, Ksena asked Jina one question she had avoided all day.
+
+"What did people here celebrate before breakdown became normal?"
+
+Jina blinked, surprised.
+
+"Maintenance Turn," she said after a moment. "Every quarter when all six loops hit stable output, we shut one lane for half a day and held public calibration. Kids got to place the final lock pin. Elders told origin stories about which tribe and which city craft house built each segment."
+
+"You did that together?"
+
+"Everyone did it together," Jina said. "Because systems don't care about status. Either pressure holds or people drown."
+
+She pointed across the yard where three children sorted gasket rings by diameter with chalk marks on the floor.
+
+"Now celebration is when nothing explodes for a month."
+
+Ksena wrote that down too.
+
+At the edge of district, Estele introduced them to a retired freight coordinator named Leth who kept the unofficial map of working relationships between neighborhoods.
+
+Leth's paper map had no political boundaries.
+
+It had trust boundaries.
+
+"This lane shares tools with that lane," he said, tapping marks. "This one doesn't since allocation fight fourteen years ago. This block still takes city contracts under protest. This one refuses all command supply after seal sabotage case."
+
+Alcuin leaned in.
+
+"You map grudges?"
+
+"I map reliability," Leth answered. "Same thing if you move critical parts under crisis."
+
+He gave Ksena a narrow look.
+
+"If you plan to change governance, remember this: policy doesn't move machines. Relationships do."
+
+By the time they left, Ksena carried three maps:
+
+- physical infrastructure,
+- formal allocation routes,
+- informal trust networks that kept both from collapsing completely.
+
+She realized then that rebuilding would not be one reform package.
+
+It would be thousands of repaired agreements between people who had good reasons not to trust each other.

@@ -1,139 +1,326 @@
-﻿The door opened with a groan like old metal remembering how to move.
+The door opened with a groan like old metal remembering how to move.
 
-Cold air rolled out, carrying dust and something sharper, ozone maybe, maybe old power.
+Cold air rolled out carrying dust, mineral damp, and a sharp metallic scent Ksena could not place.
 
 "Inside," Alcuin said.
 
-They slipped through. The door sealed behind them just as claws scraped stone outside.
+They slipped through just as claws scraped stone outside.
 
 Wolves.
 
 More than one.
 
-The sound circled and faded, then returned, confused by the lack of scent trail.
+The sounds circled, faded, returned, confused by disrupted scent trail at entry seam.
 
-Ksena leaned against the wall, chest heaving.
+Ksena leaned against wall, chest heaving.
 
 "I thought we'd die out there."
 
-Alcuin listened another few seconds before nodding.
+Alcuin listened another few seconds before answering.
 
 "Maybe still. Just slower."
 
-He found a wall strip and hit it with his palm. Nothing.
+He found a recessed strip and hit it with his palm. Nothing.
 
-Ksena ran fingers along carved seam near entry node the way she had seen attendants activate city locks.
+Ksena traced a carved seam near entry node the same way she had seen attendants activate city locks.
 
-Light flickered once, then spread in weak bands down the corridor.
+A weak amber line flickered, then spread along corridor in dim bands.
 
-The place was older than anything in her city and more complex than village ruins.
+Light revealed architecture older than anything in her city and more complex than village ruins.
 
 Not a tomb.
 
 A station.
 
-Three side chambers opened off the main hall.
+Three side chambers branched off main hall. Floor markings still visible beneath dust showed directional arrows in script halfway between city glyphs and something older.
 
-The first held broken storage racks.
+Alcuin tested air with slow breaths.
 
-The second held cracked screens and dead consoles.
+"No gas bite. No immediate collapse noise."
 
-The third made both of them stop.
+"Good."
 
-A central table projected a faded map when Ksena touched the edge ring.
+"Relative good," he corrected.
 
-Points of light marked locations across the plains and beyond.
+They cleared first side chamber: empty racks, cracked containers, one collapsed shelf. Second chamber held wall maps too degraded to read at distance. Third opened into central console room with curved display wall and dead projection lattice.
 
-Some symbols matched the flashes she had seen during ritual failure.
+Ksena stepped closer and brushed grime from a control strip.
 
-Others were new.
+The wall lit.
 
-Alcuin leaned in.
+Projection flared to life in broken sequences.
 
-"Can you read it?"
+Alien silhouettes in armor she had seen only in ritual feedback.
 
-"Parts," Ksena said. "Old script."
+Cities burning.
 
-She traced one symbol cluster near their current position, then another farther north.
+Ascendants in formation.
 
-"These are linked sites. Not random ruins."
+A barrier rising.
 
-Alcuin scanned the map, then the room.
+Then map overlays: city nodes, temple lines, relay stations, old districts erased from present charts.
 
-"Any mention of people?"
+Alcuin moved beside her, eyes tracking route geometry.
 
-Ksena touched another control and winced when a fragmentary image sequence pulsed to life.
+"Do you know these locations?" he asked.
 
-Armored figures.
+Ksena shook her head.
 
-Fire in the sky.
+"Some symbols match what I saw during ritual failure. Not names."
 
-Ascendants and tribal fighters in the same line.
+He pointed to one cluster northwest.
 
-Then smoke.
+"Could that be the other city rumors mention?"
 
-Then nothing.
+"Maybe."
 
-The projection collapsed into static.
+"Then we don't leave without copying this."
 
-"Same images," she said quietly. "The ritual showed me this."
+Agreed.
 
-Alcuin rubbed his jaw.
+They spent next hour building improvised transcription workflow. Ksena read symbols aloud while Alcuin copied onto cloth with charcoal and scoring marks for uncertain lines. Whenever projection glitched, they restarted sequence from partial menu tree Ksena learned by trial and memory.
 
-"So either your ritual pulled old records or someone wanted you to see these places."
+One screen segment repeated an icon of paired altar and warning sigil keyed to command imprint lock.
 
-"Either way, we need to follow them."
+"That matters," Ksena said.
 
-He did not answer immediately.
+"Why?"
 
-Outside, a wolf hit the sealed door hard enough to rattle the frame.
+"Because it labels ascension flow as two modes. Open and restricted."
 
-"First we survive tonight," he said.
+Alcuin looked up sharply.
 
-They searched the station for anything useful.
+"Restricted by what?"
 
-They found a half-working water recycler, two intact thermal wraps, and one lockbox with preserved ration bricks that tasted like chalk and old salt but kept them alive.
+"Command authority."
 
-No weapons.
+A long pause.
 
-No clear logs.
+"Your city calls that order," he said.
 
-Near second watch, corridor lights dimmed to emergency low.
+"My city calls a lot of things order," Ksena answered.
 
-Ksena sat with knees pulled in, map image burned into memory.
+They found a secondary storage alcove behind console wall. Most containers had corroded shut. One opened enough to reveal thin metallic sheets etched with energy-flow diagrams through crystal nodes.
 
-"If this connects to my failure," she said, "the elders knew more than they told us."
+Ksena rolled two sheets and wrapped them in spare cloth.
 
-"They always do," Alcuin said.
+"If this is genuine, it predates current doctrine," she said.
 
-"Why keep us ignorant?"
+"Or contradicts it," Alcuin replied.
 
-Alcuin stared at the sealed door.
+Outside, wolves scratched at the sealed door once, then moved off.
 
-"Because ignorant people are easier to rule."
+They stayed alert anyway.
 
-At dawn, the wolf pack had moved on.
+After mapping primary room, they searched for alternate exits. Corridor B ended at vertical shaft with collapsed ladder. Corridor C led to maintenance stair climbing toward surface hatch.
 
-The door opened to gray light and wind-scoured ground.
+Alcuin checked hatch first and returned with a grim smile.
 
-Ksena copied the map by hand onto cloth strip while Alcuin checked tracks.
+"Good news: it opens.
+Bad news: right into open brush with no cover for twenty meters."
 
-"We head north-east," she said. "There should be a trade outpost before next marker."
+"We'll use it at dusk."
 
-Alcuin adjusted his pack and nodded.
+"Agreed."
 
-"If we find people there, we buy information and keep your hood up."
+While waiting for light shift, they rationed food and reviewed map notes.
 
-She managed a tired smile.
+Ksena circled three targets:
 
-"You think I stand out?"
+1. First temple line east-northeast.
+2. Archive city north route.
+3. Ancient enemy site from ritual vision.
 
-"Only if breathing counts."
+"If we chase all three at once, we die on route," Alcuin said.
 
-They left the station with new route, thinner food stores, and one shared certainty:
+"Then sequence them."
 
-The world outside the barrier was not empty.
+They argued for twenty minutes and settled on this:
 
-It was layered with old systems someone had buried on purpose.
+- nearest safe outpost first for supplies and possible guide,
+- then temple line verification,
+- then archive city once route intelligence improved.
 
-And now they were walking straight through those layers with no backup and no room for another mistake.
+Ancient enemy site stayed as major objective, not immediate destination.
+
+Practical first.
+
+Heroics later.
+
+On second room sweep, projection triggered audio fragment in old dialect. Ksena understood only parts:
+
+"...paired altar function... command interference... distributed oversight required..."
+
+She replayed clip twice and caught one more phrase.
+
+"No hereditary lock."
+
+Alcuin watched her expression shift.
+
+"What?"
+
+"It says command lock should never be hereditary."
+
+"Your father would hate that sentence."
+
+"Yes," she said. "Which is why we copy it."
+
+She transcribed every legible phrase onto field slate and marked uncertain symbols for later cross-reference.
+
+By late afternoon light through maintenance slits turned orange.
+
+"Time," Alcuin said.
+
+They packed transcription cloths, metallic sheets, and remaining rations. Ksena returned once more to central projection wall and stared at image freeze-frame of barrier rise over broken horizon.
+
+"I used to think this was sacred architecture," she said quietly.
+
+"And now?"
+
+"Now I think it's also a weapon someone taught us to worship."
+
+They moved to maintenance exit. Alcuin cracked hatch two fingers, listened, then wider.
+
+No immediate movement.
+
+No howls.
+
+He went first, scanning left-right arcs. Ksena followed with packs.
+
+Their original packs lay thirty meters downslope, torn by claws but recoverable.
+
+They retrieved what remained: one water skin punctured, half ration bag ruined, but knife roll and cord bundle intact.
+
+"Could be worse," Alcuin muttered.
+
+"I hate when you say that because you're always right."
+
+They circled wide from entry site before making camp, choosing low depression with stone lip and single approach line.
+
+No fire first hour.
+
+When full dark settled and no pursuit signs appeared, Alcuin lit shielded flame.
+
+They reviewed copied map again. One route line marked trade outpost between their position and temple chain.
+
+"We need supplies and local route authority," Alcuin said. "Outpost gives both if we pay and keep story tight."
+
+"What story?"
+
+"Travelers carrying relic salvage, headed north for registry sale."
+
+"Too detailed."
+
+"Good. Detailed lies survive first question."
+
+Ksena added one rule.
+
+"No mention of ritual anomaly unless forced."
+
+"Agreed."
+
+Second watch brought wind and distant thunder, or maybe engines too far to identify. Ksena slept in brief bursts, waking each time to check that map cloth still sat beneath her hand.
+
+At dawn they broke camp and moved toward outpost route marker.
+
+Travel was slow. Alcuin's thigh cut tightened overnight. Ksena's forearm wound reopened once under pack strap friction.
+
+They rebandaged both in shade and kept moving.
+
+Near midday they reached ridge with clear line of sight across plains. Outpost smoke rose faint in distance.
+
+Relief hit hard enough to be dangerous.
+
+Alcuin pointed with spear tip.
+
+"There. Half day if we keep pace."
+
+Ksena nodded, then looked back toward hidden station ridge now small behind them.
+
+The place had nearly become their grave.
+
+Instead it had become first source that gave her proof the city narrative was incomplete.
+
+She tightened pack straps.
+
+"Let's go," she said.
+
+This time, when they walked into open plain, they were not wandering.
+
+They were carrying evidence that could get them killed if the wrong person saw it.
+
+Alcuin folded route cloth, sealed it in oil wrap, and tucked it deep in pack.
+
+"No one sees this unless we decide," he said.
+
+Ksena agreed.
+
+Some truths were too dangerous to survive in daylight.
+
+They did not reach the outpost before full dark.
+
+Instead they stopped at a broken culvert one ridge short and ran a full information quarantine before sleep.
+
+Map cloth stayed sealed.
+
+Metallic sheets wrapped twice.
+
+Any mention of station reduced to one phrase: old shelter ruins.
+
+"If questioned separately?" Alcuin asked.
+
+"Same answer. We found weather shelter and route marks. No active tech."
+
+"Good."
+
+He handed her a short strip of leather with three punched holes.
+
+"Emergency code," he said. "If I say check your sleeve and touch one hole, it means watcher in earshot. Two holes means immediate lie consistency. Three means run."
+
+Ksena took it and tied it under wrist wrap.
+
+"And if I use the same code first?"
+
+"Then I listen."
+
+They sat in dark until moon cleared clouds enough to light the outpost smoke line in the distance.
+
+Ksena looked at that thin gray column and realized she had stopped thinking in terms of returning to normal.
+
+Normal was gone.
+
+In its place was sequence:
+
+Observe.
+
+Verify.
+
+Choose.
+
+Move.
+
+She repeated it once under breath before sleep took her.
+
+When dawn came, she woke before Alcuin, checked horizon, and found no active pursuit signs.
+
+For the first time in days, her hands did not shake when she packed.
+
+Fear was still there.
+
+It just no longer owned the first decision.
+
+The door seam widened by another finger-width as if sensing pressure from both their hands.
+
+Whatever system had built it did not care about city rank or village title.
+
+It cared about input and intent.
+
+Ksena filed that away.
+
+So did Alcuin.
+
+Alcuin marked the ridge behind them with one subtle stone shift only trained eyes would notice.
+
+If they had to retreat fast, he wanted a route they could trust when exhausted.
+
+Ksena approved without words.
