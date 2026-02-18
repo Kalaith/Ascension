@@ -1,8 +1,51 @@
+***
+**Memory Index: Year 12. Subject: Kalani.**
+
+It was raining ash even then. A small industrial fire in sector 7 had painted the sky grey.
+
+Usef stood by the window, watching the smoke. He was six years old.
+
+"It looks like a monster," he whispered.
+
+"It looks like inefficiency," Kalani said. She was eight. She was sitting at the immaculate white table, arranging her logic crystals by hue. "If the fire suppression grid had redundant sensors, the smoke would have been contained in twelve seconds."
+
+"But it's pretty," Usef argued. "The way it moves."
+
+Kalani stopped organizing. She looked at the smoke.
+
+"Chaos isn't pretty, Usef. It's a mistake. It means someone failed."
+
+She looked down at her crystals. Perfect lines. Perfect order.
+
+"I won't fail," she promised. "I will be the fire that burns the smoke away."
+
+***
+
+**Present Day**
+
 The inner gate held for now, but the sky above did not.
 
 The Ancestral fleet had lowered its orbit. The massive hulls blocked out the remaining daylight, casting the ritual district into perpetual twilight.
 
-Then the second sun rose.
+From the bridge of the flagship *Silence of Void*, Sub-Commander Xylos watched the tactical feed.
+
+"Local resistance is... inconsistent," his adjutant reported, a series of clicks and hums translated by the neural link. "Biological units are using synchronized thermal manipulation. It defies standard planetary classifications."
+
+Xylos tapped a claw on the console.
+
+"They are feral," he dismissed. "Burn the grid. Prepare the atmospheric incinerators."
+
+"Sir, reading a massive thermal spike in sector one."
+
+"Define massive."
+
+"Stellar."
+
+Xylos looked at the main screen.
+
+***
+
+The second sun rose.
 
 It ascended from the Ritual Tower balcony, a burning sphere of white-hot plasma that defied gravity and reason.
 
@@ -12,27 +55,61 @@ Through the comms, static screamed. "Target lock acquired! Multiple signatures c
 
 Kalani wasn't fighting like a soldier. She was fighting like a natural disaster.
 
-She hovered above the shattered dome of the library, wreathed in flame so intense the air rippled around her. She was throwing bolts of pure energy at the passing fighters, swatting them out of the sky with terrifying ease.
+She hovered above the shattered dome of the library, wreathed in flame so intense the air rippled around her. She wasn't human anymore. She was a silhouette of light, a star trapped in the shape of a girl.
 
-But she was burning.
+The first wave of Ancestral fighters—sleek, predatory drones shaped like obsidian arrowheads—dove toward her. They fired particle beams that could melt tank armor.
 
-Ksena could see it even from the ground—the way the light flickered, the way her sister’s form seemed to blur at the edges. She was drawing too much power from the core.
+Kalani didn't dodge.
 
-"Get me a line to her!" Ksena shouted into her wrist unit. "Kalani! Pull back! You're overloading!"
+She caught the beams. She absorbed the energy, her aura flaring from white to blinding violet.
 
-"They are insects," Kalani's voice came back, distorted by power. "I am the sun."
+"Is that all?" her voice projected, shaking the glass in the windows below.
+
+She threw her arms out.
+
+A ring of fire expanded from her body. It wasn't just heat; it was concussive force. It hit the drone squadron and disintegrated them. Metal turned to vapor.
+
+"She's burning the atmosphere," Alcuin shouted, shielding his eyes. "The oxygen levels are dropping!"
+
+***
+
+Ksena sprinted toward the tower base.
+
+"Get me a line to her!" she shouted into her wrist unit. "Kalani! Pull back! You're overloading!"
+
+"They are insects," Kalani's voice came back, distorted by power. It sounded like fire crackling. "I am the sun."
 
 "You're dying!" Ksena yelled. "Listen to me! We have the shields! You don't need to hold the sky alone!"
 
 "Someone has to," Kalani laughed. It was a sound entirely devoid of joy. "Father won't. Mother can't. It's just us, little sister. Just the failures."
 
-A heavy cruiser descended through the clouds, its main cannons charging.
+A heavy cruiser descended through the clouds, its main cannons charging. It was targeting the Palace directly.
 
 "Kalani, move!"
 
 Kalani didn't move. She expanded.
 
-She threw her arms wide, and a shockwave of thermal energy erupted from her chest. It hit the cruiser's shields and shattered them. The ship listed, burning, and crashed into the outer wall.
+She focused on the cruiser. The massive ship fired its main battery—a slug of magnetically accelerated anti-matter.
+
+Kalani intercepted it.
+
+She didn't block it with a shield. She blocked it with her will. She held the projectile in mid-air, wrapped in a cage of thermal energy.
+
+"Return to sender," she whispered.
+
+She hurled the slug back.
+
+It impacted the cruiser's engine block. The ship buckled. For a second, it hung in the air, broken. Then the reactor went critical. A blossoming flower of nuclear fire engulfed the vessel.
+
+The Ancestral fleet paused.
+
+Actually paused.
+
+On the bridge of the *Silence of Void*, Sub-Commander Xylos stepped back from the screen.
+
+"Reclassify target," he ordered. "Priority Alpha. All batteries. Fire on that entity."
+
+***
 
 Cheers rose from the defenders on the ramparts.
 
@@ -48,7 +125,7 @@ Kalani fell twenty meters before correcting her flight. Her light dimmed.
 
 "I can climb."
 
-Ksena scrambled up the maintenance ladder of the nearest watchtower. The heat was suffocating even here.
+Ksena scrambled up the maintenance ladder of the nearest watchtower. The heat was suffocating even here. The metal rungs burned her gloves.
 
 Above, the enemy fleet adjusted tactics. They stopped firing at the city and turned every gun on the glowing speck in the center of the airspace.
 
@@ -59,6 +136,8 @@ Kalani turned. For a second, the fire cleared from her face. She looked exhauste
 "I can't stop," she whispered. The audio pickup barely caught it. "If I stop, they win."
 
 "If you don't stop, I lose a sister!"
+
+"You lost me a long time ago, Ksena."
 
 The flagship overhead opened its primary aperture. A beam of violet light, thick as a building, began to coalesce.
 
@@ -72,11 +151,13 @@ She launched herself straight at the flagship.
 
 Kalani collided with the beam just as it fired.
 
+She didn't block it. She fed it. She pushed her own resonance into the enemy weapon, turning the energy back on itself.
+
 There was no sound at first. Just a blinding white silence that erased the world.
 
 Then the shockwave hit.
 
-The flagship's cannon exploded backward, gutting the vessel. It broke in two, raining burning debris over the outer districts.
+The flagship's cannon exploded backward, gutting the vessel. It broke in two, raining burning debris over the outer districts. Ash fell like snow, coating the city in grey.
 
 But the light in the sky vanished.
 
@@ -94,7 +175,13 @@ Her sister’s skin was ash-grey. Her armor was fused to her flesh. But her eyes
 
 "Good," Kalani whispered. "Tell Father... tell him I was useful."
 
-Her eyes drifted shut. The chest stopped moving.
+"You were more than useful," Ksena sobbed. "You were brilliant."
+
+Kalani closed her eyes.
+
+"Brilliant," she breathed.
+
+The chest stopped moving.
 
 Ksena roared. A sound of grief and fury that echoed off the cold walls of the Palace.
 

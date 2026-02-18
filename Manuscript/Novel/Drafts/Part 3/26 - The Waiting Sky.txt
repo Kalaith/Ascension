@@ -1,18 +1,18 @@
 The extraction was not clean.
 
-They hit the ground running. The lower roof was slick with condensation. Alarms screamed above them.
+They hit the ground running. The lower roof was slick with condensation. Alarms screamed above them, a dissonant wail that made Ksena's teeth ache.
 
-"This way!" Kirk shouted from the maintenance ladder. He had the skiff engines warming in the alley below. "We have heavy pursuit!"
+"This way!" Kirk shouted from the maintenance ladder. He had the skiff engines warming in the alley below. The turbines whined, struggling against the sudden downdraft. "We have heavy pursuit!"
 
 "We know!" Alcuin yelled back, sliding down the rungs.
 
-Ksena landed last, the Key burning a hole in her pocket.
+Ksena landed last, the Key burning a hole in her pocket. It felt like carrying a piece of a star.
 
 "Go! Go!"
 
 They scrambled into the skiff. Kirk gunned the thrusters before the ramp closed.
 
-The craft shot up the narrow canyon of buildings, banking hard to avoid a patrol drone.
+The craft shot up the narrow canyon of buildings, banking hard to avoid a patrol drone. The G-force slammed Ksena into her seat.
 
 "Clear air in ten seconds!" Kirk warned.
 
@@ -22,11 +22,13 @@ Kalani hit the ridge above them with two fast strikes, forcing debris into the l
 
 Acceleration pinned everyone to their seats. Alcuin swore into his harness. Ksena tried to look back and could not move her head against the force.
 
-A third strike passed close enough to shake the frame.
+A third strike passed close enough to shake the frame. The heat alarm blared.
 
-"She is reading our climb," Kirk shouted. "I need a disruption window now."
+"She is reading our climb," Kirk shouted, fighting the stick. "I need a disruption window now or she swats us like a fly!"
 
-Ksena unstrapped one side, braced against the hatch frame, and forced a thermal flare into the canyon floor behind them. The false signature bloomed bright in Kalani's pursuit line.
+"I'm on it!" Ksena unstrapped one side, bracing against the hatch frame. Her vision blurred from the acceleration, but she could still feel the heat signature behind them.
+
+She forced a thermal flare into the canyon floor behind them. Not a weapon. A beacon. The false signature bloomed bright and hot in Kalani's pursuit line.
 
 Kalani broke right to follow it.
 
@@ -34,13 +36,13 @@ Kirk used the two-second gap and drove the craft through a narrow stone split, t
 
 By the time Kalani corrected, they were gone.
 
-Alcuin dropped his head between his knees and fought vertigo while the craft leveled.
+Alcuin dropped his head between his knees and fought vertigo while the craft leveled. His skin was gray.
 
 "Tell me this flight ends soon," he said.
 
 "One hour," Kirk answered. "Try not to pass out before then."
 
-Ksena kept eyes on instruments, jaw tight.
+Ksena kept eyes on instruments, jaw tight. Her hand was still clenched around the pocket where the Key lay.
 
 "She is faster than before," she said.
 
@@ -50,7 +52,7 @@ They touched down in a dry ravine with engines ticking hot and everyone shaking 
 
 No one called it a win.
 
-They had not beaten Kalani.
+They had not beaten Kalani. They had survived her.
 
 They had escaped.
 
@@ -58,7 +60,7 @@ And they had the Key.
 
 Ksena pulled the crystal shard from her pocket. It pulsed slowly, a deep, rhythmic beat that matched the humming in the air.
 
-"This stops the barrier?" Estele asked, looking at it warily.
+"This stops the barrier?" Estele asked, looking at it warily. "It looks... hungry."
 
 "It controls the lock," Ksena said. "If we put this in the receiver at the High Temple, we can drop the shield."
 
@@ -70,31 +72,33 @@ The fleet arrived like weather turning violent.
 
 Ksena saw the first hull break cloud and felt old fear move through her spine before thought caught up.
 
+It wasn't a ship. It was a cathedral of black metal, inverted and hanging in the sky. It defied physics. It didn't have engines; it had presence.
+
 Then more shapes followed.
 
-Carriers.
+Carriers. Thick, beetles-shell hulls that bristled with drop pods.
 
-Heavy escorts.
+Heavy escorts. Sleek, predatory wedges that moved with impossible silence.
 
 Fast wedges peeling toward strategic corridors.
 
-Within minutes the sky was no longer sky. It was occupied geometry.
+Within minutes the sky was no longer sky. It was occupied geometry. The sun was blocked out, replaced by the cold, violet glow of a thousand drive cores. It felt like being under a microscope.
 
 Kirk lowered binoculars and did not bother softening his read.
 
-"That is not reconnaissance," he said. "That is staging for control."
+"That is not reconnaissance," he said. "That is staging for control. They aren't here to negotiate. They're here to fumigate."
 
 Alcuin spread a cloth map over a flat stone and anchored corners with spent casings.
 
-"If they hold these three canyons," he said, tapping each route in turn, "lowland supply dies in two days."
+"If they hold these three canyons," he said, tapping each route in turn, "lowland supply dies in two days. They starve us out before they even fire a shot."
 
 Ksena forced herself to count instead of panic.
 
-Hull spacing.
+Hull spacing. Standard invasion grid.
 
-Descent vectors.
+Descent vectors. Aimed at population centers, not military targets.
 
-Escort pattern.
+Escort pattern. Overlapping fields of fire.
 
 Whoever commanded the formation had studied terrain and chosen pressure points deliberately.
 
@@ -112,11 +116,11 @@ The ground beneath her boots still required decisions.
 
 She split routes in under a minute.
 
-Alcuin to ridge clans and canyon wardens.
+"Alcuin to ridge clans and canyon wardens. Get them moving. Don't fight the landings—evade and ambush."
 
-Kirk to aerial recon and comm relay.
+"Kirk to aerial recon and comm relay. Keep the network alive. If we lose comms, we lose everything."
 
-Ksena to city gate command table and emergency corridor authority.
+"Ksena to city gate command table and emergency corridor authority."
 
 No one argued.
 
@@ -145,3 +149,5 @@ The enemy had arrived in force.
 This time they would meet a world that remembered and adapted.
 
 And this time, the world had a Key.
+
+But looking at the black shapes blotting out the stars, Ksena knew the Key might just be the thing that got them all killed.

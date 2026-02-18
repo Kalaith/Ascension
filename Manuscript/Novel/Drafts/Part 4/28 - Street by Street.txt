@@ -28,9 +28,31 @@ This was her city. Her father had designed the grand avenues for parades and sur
 
 They dove into a narrow service alley just as a squad of Ancestrals marched into the main square. The violet beams swept the area, disintegrating the rubble where they had been seconds before.
 
-In the dark of the tunnel, children were crying.
+But something else followed them.
 
-Ksena leaned against the damp brickwork, catching her breath. Her side burned where a piece of shrapnel had grazed her ribs.
+A sleek, four-legged unit, low to the ground. A Hunter. Its sensors swept the alley, locking onto their heat signatures.
+
+"Hunter unit!" Ksena warned.
+
+It pounced.
+
+Alcuin raised a wall of stone, but the Hunter phased right through it, its body dissolving into mist before reforming on the other side.
+
+"Phase tech!" Alcuin shouted, stumbling back.
+
+Ksena didn't try to block. She focused on the air around it. She created a vacuum, a pocket of zero air pressure.
+
+The Hunter stumbled as its stabilizers failed in the sudden void.
+
+Use the environment.
+
+Ksena released the vacuum and slammed a kinetic pulse into the destabilized unit. It smashed into the brick wall, sparks flying. Before it could recover, Alcuin brought the wall down on top of it.
+
+"Keep moving!"
+
+They reached the temporary field hospital set up in the basement of the old library. It was a charnel house.
+
+Wounded lined the floor. Not just broken bones, but burns from the violet beams that wouldn't stop glowing.
 
 "How many?" she asked a medic who was bandaging a guard's arm.
 
@@ -54,7 +76,7 @@ She checked her weapon charge. "We hold the bridge at the canal. It’s a choke 
 
 They moved out again.
 
-The canal district was worse. The water was boiling from thermal lance strikes. Steam choked the air.
+The canal district was worse. The water was boiling from thermal lance strikes. Steam choked the air, thick and scalding.
 
 They set the ambush.
 
@@ -66,7 +88,7 @@ The charges under the arch detonated.
 
 The bridge buckled. For a moment, it held, defying gravity. Then, with a prolonged screech of tearing metal and stone, it collapsed into the boiling water below.
 
-The Ancestral squad went with it.
+The Ancestral squad went with it. The thermal shock of the molten armor hitting the water sent a geyser of steam distinctively three hundred feet into the air.
 
 For a moment, there was cheering.
 
@@ -115,3 +137,7 @@ They were safe for a moment. But they were trapped.
 Ksena looked up at the looming tower of the Ritual Hall.
 
 "Yes," she said. "And my father."
+
+She touched the hilt of her sword.
+
+"He's going to answer for this."

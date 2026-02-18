@@ -4,7 +4,7 @@ So they went looking for weapons.
 
 "The Vault of the First Seed," Grandmother announced, pointing at a dusty map she had laid out on the clan's rough table. "Sealed before the Crystal Regime centralized power. Before the Blood Lie."
 
-"Sounds convenient," Alcuin said, sharpening his blade.
+"Sounds convenient," Alcuin said, sharpening his blade. The rasp of the whetstone was the only sound in the room for a long moment.
 
 "It sounds dangerous," Ksena corrected. "Why wasn't it raided centuries ago?"
 
@@ -14,13 +14,31 @@ Alcuin stopped sharpening. "Under the what?"
 
 "The lake is seasonal," Grandmother said calmly. "It recedes in the dry season. Which is now."
 
-They stood at the edge of the basin three days later. The ground was cracked and yellow with sulfur. The air burned their throats.
+They stood at the edge of the basin three days later. The ground was cracked and yellow with sulfur. The air burned their throats. The "lake" was now a vast expanse of dried chemical sludge, fragile and treacherous.
 
-"Masks on," Ksena ordered.
+"Masks on," Ksena ordered, pulling up her scarf.
 
 They descended into the dry bed.
 
-The entrance was hidden behind a rock fall. Alcuin moved the stones with a wave of his hand, his control precise now, no longer fighting the earth but asking it to shift.
+The ground crunched underfoot like old bone. Every few steps, a pocket of gas would hiss from a fissure.
+
+"Watch your step," Alcuin warned. "The crust is thin here. Beneath it is..."
+
+He tossed a stone. It broke through the surface crust and vanished with a wet *glorp*. Smoke rose from the hole.
+
+"...still liquid," he finished.
+
+They moved in single file, Alcuin testing the ground with his earth-sense, guiding them along a ridge of solid rock hidden beneath the sludge.
+
+"Are we just grave robbers?" Alcuin asked suddenly, his voice muffled by his scarf. "Digging up the past because we can't build a future?"
+
+Ksena paused. The wind howled across the desolate flat.
+
+"We aren't robbing a grave," she said. "We're retrieving an inheritance. These weapons were made to defend the people, not control them. We're just returning them to their owners."
+
+"If the owners survived," Alcuin muttered, but he kept walking.
+
+The entrance was hidden behind a rock fall at the far end of the basin. Alcuin moved the stones with a wave of his hand, his control precise now, no longer fighting the earth but asking it to shift.
 
 Behind the rocks lay a heavy iron door, etched with symbols that predated the City.
 
@@ -34,9 +52,7 @@ Ksena placed her palm on the lock. It didn't respond to heat. It didn't respond 
 
 They placed their hands on the door. Ksena, Alcuin, Estele. Earth, Fire, and the Void between.
 
-The door groaned. Dust fell from the frame.
-
-It swung inward.
+The door groaned. Dust fell from the frame. It swung inward, revealing a tunnel that spiraled down into the dark.
 
 The air inside was stale but breathable.
 
@@ -44,29 +60,67 @@ The air inside was stale but breathable.
 
 Estele summoned a floating orb of cold fire to guide them.
 
-The vault wasn't a room. It was a library. Shelves lined the walls, filled not with books, but with crystals. Thousands of them. Uncut. Raw.
+The tunnel wasn't empty. Ten meters in, the gravity shifted.
+
+"Whoa!" Estele stumbled as the floor suddenly felt like a wall.
+
+"Gravity trap," Grandmother warned. "Old defense. The Architect didn't like uninvited guests."
+
+The corridor twisted. Up became down. Left became right. Nausea rolled in Ksena's stomach.
+
+"Focus on the rail!" Grandmother shouted. "The rail is the constant! Don't look at the walls!"
+
+They crawled along the central rail, their bodies heavy one second and weightless the next. Use the wrong muscle, and you'd fly into the ceiling.
+
+"This is impossible!" Alcuin grunted, dragging himself forward against 3Gs of force.
+
+"It's a filter," Ksena gasped. "Only those with discipline pass. Panic, and you fall."
+
+They pushed through. Inch by inch. Until the pressure suddenly vanished, dropping them onto the smooth floor of the antechamber.
+
+The vault lay beyond.
+
+It wasn't a room. It was a library of war. Shelves lined the walls, filled not with books, but with crystals. Thousands of them. Uncut. Raw.
 
 "Inheritance," Grandmother breathed. "Enough to arm ten generations."
 
 But they weren't alone.
 
-Shapes moved in the shadows.
+Shapes moved in the shadows. Mechanical clicking echoed off the walls.
 
-"Automata," Alcuin warned, raising a shield. "Old guard constructs."
+"Automata," Alcuin warned, raising a shield. "Old guard constructs. Pre-unification models."
 
-Mechanical spiders, rusted but functional, scuttled from the corners. Their eyes glowed red. They didn't have guns. They had blades.
+Mechanical spiders, rusted but functional, scuttled from the corners. Their eyes glowed red. They didn't have guns. They had blades, and they moved with jerky, terrifying speed.
 
 "Defensive formation!" Ksena shouted.
 
+There were three types. Small, fast scouts that swarmed the walls. Heavy, lumbering guardians with crushing pincers. And one massive centurion unit in the back.
+
+"Don't destroy them if you can help it!" Grandmother shouted. "They are heritage too!"
+
+"They're trying to slice us!" Estele yelled, blasting a scout off the ceiling.
+
 The fight was ugly. CQC in narrow aisles.
 
-Alcuin shattered the floor to trap the larger constructs. Estele burned through metal chassis with concentrated heat. Ksena moved like water, deflecting strikes and disabling joints with kinetic bursts.
+Alcuin shattered the floor to trap the heavy guardians, sinking them into pits of stone. Estele burned the sensors of the scouts, blinding them without melting their chassis.
 
-They fought as a unit. No hesitation. No verbal commands. Just instinct honed by weeks of brutal training.
+The centurion charged Ksena. It was twice her height, with four bladed arms.
 
-When the last spider fell, twitching, silence returned to the vault.
+Ksena didn't block. She dodged, sliding under its first strike. She placed her hand on its leg joint.
 
-"We clear?" Alcuin panted, wiping oil from his face.
+*Stop.*
+
+She didn't use force. She used the kinetic dampening technique she had been practicing. She leached the momentum out of the machine.
+
+The centurion stumbled, its gears spinning but finding no purchase. It fell forward, paralyzed by its own weight.
+
+Ksena vaulted onto its back and jammed her hand into the control box at the neck. She didn't fry it. She just cut the connection to the aggression circuit.
+
+The machine went limp.
+
+"Clear!" she shouted.
+
+"We clear?" Alcuin panted, wiping oil from his face. He was standing on top of a trapped guardian, keeping it pinned with a pillar of rock.
 
 "Clear," Ksena confirmed.
 
@@ -78,10 +132,22 @@ She turned to her team.
 
 "We take what we can carry. Then we send the runners."
 
-"To who?" Estele asked, eyeing the hoard.
+"To who?" Estele asked, eyeing the hoard. "This is dangerous power."
 
 "To everyone," Ksena said. "We don't hoarding this. We distribute it. Every village, every clan, every exile who wants to fight gets a stone."
+
+"The logistics..." Alcuin started.
+
+"Are impossible," Ksena said. "Which is why nobody will expect us to do it."
 
 Alcuin grinned. "The City isn't going to like that."
 
 "Good," Ksena said, pocketing the crystal. "Let's make sure they hate it."
+
+They spent the next hour loading packs. The crystals were heavy, buzzing with potential energy. Walking back through the gravity trap with the extra weight would be a nightmare.
+
+But as Ksena hoisted her pack, she felt lighter than she had in years.
+
+They weren't just rebels anymore. They were suppliers.
+
+And the war had just changed markets.

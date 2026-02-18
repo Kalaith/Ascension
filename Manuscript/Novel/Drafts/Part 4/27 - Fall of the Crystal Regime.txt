@@ -4,21 +4,21 @@ It was not the sound of wind or rock, but the groaning of the sky itself as some
 
 High in the ritual tower, the sensors screamed.
 
-Ksena stood on the outer wall of the third district, her hand resting on the smooth, cold stone of the battlements. Beside her, Alcuin adjusted the straps of his mismatched armor—scavenged from guards, modified by tribal hands.
+Ksena stood on the outer wall of the third district, her hand resting on the smooth, cold stone of the battlements. Beside her, Alcuin adjusted the straps of his mismatched armor—scavenged from guards, modified by tribal hands. He looked solid, but his eyes were tracking the shadows falling over the city.
 
 "They're early," he said, staring up through the transparent shield matrix.
 
 "Or we were late," Ksena answered.
 
-Above them, the red artificial dawn was blotted out by shadows. Real shadows. Not clouds, but hulls.
+Above them, the red artificial dawn was blotted out. Real shadows. Not clouds, but hulls.
 
-The first ship was large enough to block the sun. The second was larger. By the time the third descended through the cloud layer, the city below had fallen silent. Thousands of people stopped in the streets, looking up at the impossible geometry of the Ancestral Fleet.
+The first ship was large enough to block the sun. The second was larger. By the time the third descended through the cloud layer, the city below had fallen silent. Thousands of people stopped in the streets, looking up at the impossible geometry of the Ancestral Fleet. Black prisms, inverted pyramids, shapes that hurt the eyes to look at directly.
 
 These were the makers. The original architects. The ones who had seeded this world, abandoned it, and now returned to find their property damaged.
 
 "Shield harmonics at forty percent," a voice crackled over Ksena’s comms. It was Kirk, safe in the deep bunker under the old market. "If they fire a main battery, the dome won't hold."
 
-"They won't fire main batteries," Ksena said, her voice steady despite the cold knot in her stomach. "They want the infrastructure. They want the crystal lattice intact."
+"They won't fire main batteries," Ksena said, her voice steady despite the cold knot in her stomach. "They want the infrastructure. They want the crystal lattice intact. You don't burn down a factory you plan to reopen."
 
 "They want us dead, though," Alcuin muttered.
 
@@ -44,11 +44,13 @@ Ksena drew her sword—a simple steel blade, not the crystal weapons her family 
 
 "The civilians are already moving to the secondary shelters," Ksena cut in. "If we stand on the wall, their air support will wipe us off it in ten seconds. We fight in the alleys. We fight in the buildings. Move!"
 
-The first pod slammed into the street three blocks down, crushing a fountain. Steam hissed as the hatch blew.
+***
+
+Three blocks down, the first pod slammed into the street, crushing a fountain. Steam hissed as the hatch blew.
 
 Out stepped the Ancestrals.
 
-They were tall, encased in sleek, faceless armor that shimmered like oil. Their weapons were integrated into their limbs, glowing with a soft, hungry violet light. They moved not like soldiers, but like surgeons. Precise. Efficient.
+They were tall, encased in sleek, faceless armor that shimmered like oil. Their limbs were elongated, jointed with terrifying precision. Their weapons were integrated into their arms, glowing with a soft, hungry violet light. They moved not like soldiers, but like surgeons. Precise. Efficient.
 
 The first squad of city guards engaged them.
 
@@ -56,7 +58,7 @@ It wasn't a fight. It was an erasure.
 
 Violet beams dissected the air. The guards’ shields flared and failed instantly. Three men fell before they could raise their rifles.
 
-"Now," Ksena whispered.
+"Now," Ksena whispered from the rooftop above.
 
 Alcuin triggered the remote charges.
 
@@ -66,9 +68,35 @@ The fountain plaza detonated. The street collapsed into the drainage tunnels bel
 
 "It's not enough," Ksena said, watching more pods streak down. "Look at the numbers, Alcuin. There are too many."
 
-"Then we make it expensive."
+***
 
-The comms flared again. "Breach in Sector 4! They have heavy armor! Walkers!"
+In the basement of a tailor shop in the Fourth District, Mara held her two children close. The ground shook with every impact.
+
+"Hush," she whispered to her youngest, who was whimpering. "It's just thunder."
+
+"It's the monsters," her older son, Jaren, said. He was peering through a crack in the boarded-up window. "They look like ants made of metal."
+
+"Get away from the window," Mara hissed, pulling him back.
+
+Outside, the sound of heavy footsteps echoed on the cobblestones. *Clank. Clank. Clank.* Not human steps. Machine steps.
+
+A beam of violet light sliced through the shop door, melting the wood instantly.
+
+Mara put a hand over her mouth.
+
+The footsteps stopped. A sensor swept the room.
+
+Then, miraculously, they moved on.
+
+Mara let out a breath she didn't know she was holding.
+
+"They aren't looking for us," Jaren whispered. "They're looking for the soldiers."
+
+"For now," Mara said. "We have to move."
+
+***
+
+"Breach in Sector 4! They have heavy armor! Walkers!" The comms flared again.
 
 Ksena looked north. A towering shape rose above the rooftops, stepping through a residential block as if the stone walls were made of paper. It fired a rhythmic pulse cannon, reducing buildings to dust with every step.
 
@@ -93,3 +121,13 @@ Now, she would have to turn it into a graveyard to save the people inside it.
 Who would break first? The city, or the man who claimed to own it?
 
 "Let's go," she said, and jumped.
+
+She landed in a roll, coming up with her sword ready.
+
+"Alcuin, take the west flank. Keep them out of the market square for twenty minutes."
+
+"Twenty minutes is a lifetime," Alcuin said.
+
+"Then live it," Ksena said.
+
+She turned and ran towards the sound of the walker. She wasn't going to hide. She was going to hunt.
