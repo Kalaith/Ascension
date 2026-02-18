@@ -27,13 +27,21 @@ The inner gate held for now, but the sky above did not.
 
 The Ancestral fleet had lowered its orbit. The massive hulls blocked out the remaining daylight, casting the ritual district into perpetual twilight.
 
-From the bridge of the flagship *Silence of Void*, Sub-Commander Xylos watched the tactical feed.
+From the bridge of the flagship *Vanguard*, General Hale watched the tactical feed.
 
-"Local resistance is... inconsistent," his adjutant reported, a series of clicks and hums translated by the neural link. "Biological units are using synchronized thermal manipulation. It defies standard planetary classifications."
+"Local defenses are heavy," her adjutant reported. "That shield dome is denser than anything our scanners showed. And... we're tracking a new thermal signature. Rising from the central spire."
 
-Xylos tapped a claw on the console.
+Hale tapped the console.
 
-"They are feral," he dismissed. "Burn the grid. Prepare the atmospheric incinerators."
+"Is it a weapon?"
+
+"It's... biologic, ma'am. But reading like a reactor."
+
+"Identify."
+
+"Target lock unavailable. It's moving too fast."
+
+"All batteries, defensive screen," Hale ordered. "Don't fire until we have a clean target. We're here to rescue, not orbital bombard."
 
 "Sir, reading a massive thermal spike in sector one."
 
@@ -57,13 +65,15 @@ Kalani wasn't fighting like a soldier. She was fighting like a natural disaster.
 
 She hovered above the shattered dome of the library, wreathed in flame so intense the air rippled around her. She wasn't human anymore. She was a silhouette of light, a star trapped in the shape of a girl.
 
-The first wave of Ancestral fighters—sleek, predatory drones shaped like obsidian arrowheads—dove toward her. They fired particle beams that could melt tank armor.
+The first wave of Coalition fighters—sleek, interceptors meant for precision strikes—broke formation to evade her.
+
+"Unidentified entity," a pilot broadcast on open hailing frequencies. "Stand down. We are not hostile."
 
 Kalani didn't dodge.
 
-She caught the beams. She absorbed the energy, her aura flaring from white to blinding violet.
+She laughed.
 
-"Is that all?" her voice projected, shaking the glass in the windows below.
+"You are intruders," she projected, her voice shaking the glass in the windows below. "You are dirt."
 
 She threw her arms out.
 
@@ -75,45 +85,47 @@ A ring of fire expanded from her body. It wasn't just heat; it was concussive fo
 
 Ksena sprinted toward the tower base.
 
-"Get me a line to her!" she shouted into her wrist unit. "Kalani! Pull back! You're overloading!"
+"Get me a line to her!" she shouted into her wrist unit. "Kalani! Stop! They're allies!"
 
 "They are insects," Kalani's voice came back, distorted by power. It sounded like fire crackling. "I am the sun."
 
-"You're dying!" Ksena yelled. "Listen to me! We have the shields! You don't need to hold the sky alone!"
+"You're attacking the rescue fleet!" Ksena yelled. "Listen to me! They are here to help us!"
 
-"Someone has to," Kalani laughed. It was a sound entirely devoid of joy. "Father won't. Mother can't. It's just us, little sister. Just the failures."
+"Help?" Kalani laughed. It was a sound entirely devoid of joy. "Father was right about one thing, little sister. The universe is a garden of predators. You don't invite them in. You burn them out."
 
-A heavy cruiser descended through the clouds, its main cannons charging. It was targeting the Palace directly.
+A Coalition cruiser banked hard, trying to avoid her path. Its defense turrets spun up, firing warning shots.
 
 "Kalani, move!"
 
 Kalani didn't move. She expanded.
 
-She focused on the cruiser. The massive ship fired its main battery—a slug of magnetically accelerated anti-matter.
+She grabbed the targeting array of the library's defense turret—a relic weapon deactivated for centuries—and fused her own nervous system into the firing port.
 
-Kalani intercepted it.
+"External power source accepted," the automated voice droned.
 
-She didn't block it with a shield. She blocked it with her will. She held the projectile in mid-air, wrapped in a cage of thermal energy.
+"Targeting solution," Kalani grit out. "The flagship. Burn it."
 
-"Return to sender," she whispered.
+She fired.
 
-She hurled the slug back.
+The beam wasn't violet or white. It was raw, dirty thermal energy. It hit the anti-matter slug ten meters from the barrel.
 
-It impacted the cruiser's engine block. The ship buckled. For a second, it hung in the air, broken. Then the reactor went critical. A blossoming flower of nuclear fire engulfed the vessel.
+The explosion wasn't a flower. It was a hammer.
 
-The Ancestral fleet paused.
+The cruiser's shield collapsed. The hull buckled, glowing white-hot as the beam carved a trench through its midsection. It didn't fall, but it listed heavily, venting atmosphere.
 
-Actually paused.
+The Coalition fleet paused.
 
-On the bridge of the *Silence of Void*, Sub-Commander Xylos stepped back from the screen.
+Then every gun turned toward the glowing speck of the girl.
 
-"Reclassify target," he ordered. "Priority Alpha. All batteries. Fire on that entity."
+On the bridge of the *Vanguard*, General Hale stepped back from the screen.
+
+"She's a WMD," Hale said grimly. "We can't let her near the engines. All batteries. Fire for effect. Eliminate the hostile."
 
 ***
 
-Cheers rose from the defenders on the ramparts.
+Cheers rose from the defenders on the ramparts—they thought she was winning. They didn't understand who she was killing.
 
-But Ksena saw the cost.
+But Ksena saw the cost. And the horror.
 
 Kalani fell twenty meters before correcting her flight. Her light dimmed.
 
@@ -133,33 +145,45 @@ Above, the enemy fleet adjusted tactics. They stopped firing at the city and tur
 
 Kalani turned. For a second, the fire cleared from her face. She looked exhausted. She looked young.
 
-"I can't stop," she whispered. The audio pickup barely caught it. "If I stop, they win."
+"I can't stop," she whispered. Her hands were fused to the generator housing now. "They're still in the sky, Ksena. I won't let them land."
 
-"If you don't stop, I lose a sister!"
+"They are humans! They are friends!"
 
-"You lost me a long time ago, Ksena."
+"They are arrogant," Kalani coughed, sparks flying from her mouth. "The shield generator... if I reverse the polarity... if I feed it everything... it becomes a localized EMP. It will strip their shields. It will drop them out of the sky."
 
-The flagship overhead opened its primary aperture. A beam of violet light, thick as a building, began to coalesce.
+"It will kill you," Ksena realized. "And it will kill thousands of them."
 
-Kalani looked up at it. She smiled. A sad, tired smile.
+"Good," Kalani said.
 
-"I was always better at burning things than building them," she said.
+She looked at the flagship descending above them.
 
-She launched herself straight at the flagship.
+"Get to the bunker, sister. I'm clearing the board."
 
-"No!" Ksena reached out, but her fingers grasped only hot air.
+"Kalani, no!"
 
-Kalani collided with the beam just as it fired.
+"Go!" Kalani roared, and the heat flared so bright Ksena was thrown back to the ladder.
 
-She didn't block it. She fed it. She pushed her own resonance into the enemy weapon, turning the energy back on itself.
+Ksena slid down, burning her hands, hitting the ground running. She didn't look back.
+
+Above her, Kalani closed her eyes. She stopped fighting the fire. She let it in. She became the circuit.
+
+She pushed her own resonance into the generator, overriding the safety limits.
+
+*Warning: Critical Mass.*
+
+"Burn," Kalani whispered.
+
+The shield dome didn't break. It inverted.
 
 There was no sound at first. Just a blinding white silence that erased the world.
 
 Then the shockwave hit.
 
-The flagship's cannon exploded backward, gutting the vessel. It broke in two, raining burning debris over the outer districts. Ash fell like snow, coating the city in grey.
+The flagship's shields shattered. The vessel groaned, systems shorting out across the board. It listed, engines dying, drifting dead in the water. Smaller escort ships spiralled away, dark.
 
-But the light in the sky vanished.
+She hadn't destroyed them. But she had blinded them.
+
+And the light in the sky vanished.
 
 A small, charred figure fell from the smoke.
 
@@ -169,9 +193,11 @@ Ksena was running before she hit the ground. She caught Kalani just above the pa
 
 Her sister’s skin was ash-grey. Her armor was fused to her flesh. But her eyes were open.
 
-"Did I... get them?" Kalani wheezed.
+"Did I... stop them?" Kalani wheezed.
 
-"Yes," Ksena wept, holding her tight. "You got them. You saved us."
+Ksena looked up. The human ships were crippled, drifting, fires burning on their decks. They weren't destroyed, but they weren't landing *troops* either.
+
+"Yes," Ksena wept, holding her sister who had just saved a dictator's city from its liberators. "You stopped them."
 
 "Good," Kalani whispered. "Tell Father... tell him I was useful."
 
@@ -185,11 +211,11 @@ The chest stopped moving.
 
 Ksena roared. A sound of grief and fury that echoed off the cold walls of the Palace.
 
-Around them, the battle paused. The enemy ship burned in the distance. The defenders lowered their weapons in respect.
+Around them, the battle paused. The human ships burned in the distance. The defenders—Father's loyalists—lowered their weapons in respect.
 
-But the sky remained full of ships.
+But the sky remained full of crippled ships.
 
-And the war wasn't over.
+And the war wasn't over. Ksena had just lost her sister to a lie.
 
 Ksena laid her sister gently on the stone. She stood up. Her hands were shaking, not with fear, but with a cold, crystallizing hate.
 

@@ -12,19 +12,45 @@ Ksena stood on the outer wall of the third district, her hand resting on the smo
 
 Above them, the red artificial dawn was blotted out. Real shadows. Not clouds, but hulls.
 
-The first ship was large enough to block the sun. The second was larger. By the time the third descended through the cloud layer, the city below had fallen silent. Thousands of people stopped in the streets, looking up at the impossible geometry of the Ancestral Fleet. Black prisms, inverted pyramids, shapes that hurt the eyes to look at directly.
+The first ship was large enough to block the sun. The second was larger. By the time the third descended through the cloud layer, the city below had fallen silent. Thousands of people stopped in the streets, looking up at the blocky, utilitarian hulls of the Earth Coalition Fleet. White plating, grey seams, human geometry.
 
-These were the makers. The original architects. The ones who had seeded this world, abandoned it, and now returned to find their property damaged.
+These were the allies. The rescue party.
+
+"Shield harmonics at forty percent," a voice crackled over Ksena’s comms. It was Kirk, safe in the deep bunker under the old market. "General Hale is holding fire. She's hailing the Tower."
+
+"Father won't answer," Ksena said, staring at the familiar shapes. "He doesn't negotiate with 'primitives'."
+
+"He doesn't have to," Alcuin pointed at the spire. "Look."
+
+A flash of light from the Ritual Tower answered the hail.
+
+It wasn't a signal. It was a battery lock.
+
+"Defense grid active!" Kirk shouted. "They're targeting the fleet!"
 
 "Shield harmonics at forty percent," a voice crackled over Ksena’s comms. It was Kirk, safe in the deep bunker under the old market. "If they fire a main battery, the dome won't hold."
 
 "They won't fire main batteries," Ksena said, her voice steady despite the cold knot in her stomach. "They want the infrastructure. They want the crystal lattice intact. You don't burn down a factory you plan to reopen."
 
-"They want us dead, though," Alcuin muttered.
+"They're firing on the rescue ships," Alcuin muttered.
 
-A flash of light from the lead ship confirmed him.
+A volley of surface-to-orbit plasma lanced up from the palace, striking the lead Coalition cruiser. The ship's shields flared blue.
 
-It wasn't a world-breaking beam. It was a precision lance, a needle of white fire that struck the apex of the barrier. The dome shuddered. The impact sound arrived a second later—a crack like a breaking bone that echoed off every building in the valley.
+"Counter-fire!" Kirk reported. "Hale is engaging the defense turrets."
+
+The Coalition ships returned fire. Kinetic rail-rounds and missiles streaked down, slamming into the city's outer barrier. The dome shuddered. The impact sound arrived a second later—a crack like a breaking bone that echoed off every building in the valley.
+
+Then the rain began.
+
+Not water. Containment pods.
+
+Thousands of black spheres shot from the Citadel, arching over the districts and slamming into the streets. They didn't come from the sky. They came from the Palace.
+
+"Domestic suppression," Alcuin said, reading the trajectory. "He's locking down the city. He's unleashing the reserve guard."
+
+Ksena drew her sword—a simple steel blade, not the crystal weapons her family favored.
+
+"Signal the district captains," she ordered. "Plan Red. The fleet can't help us if the city kills us first. We have to break the lockdown."
 
 Then the rain began.
 
@@ -48,21 +74,31 @@ Ksena drew her sword—a simple steel blade, not the crystal weapons her family 
 
 Three blocks down, the first pod slammed into the street, crushing a fountain. Steam hissed as the hatch blew.
 
-Out stepped the Ancestrals.
+Out stepped the Peacekeepers.
 
-They were tall, encased in sleek, faceless armor that shimmered like oil. Their limbs were elongated, jointed with terrifying precision. Their weapons were integrated into their arms, glowing with a soft, hungry violet light. They moved not like soldiers, but like surgeons. Precise. Efficient.
+They were tall, encased in the pristine white ceramic of the Old Guard—automata from the founding era. Their limbs were heavy, piston-driven. Their weapons were riot-suppression cannons that fired ionized gas and solid slugs. They moved not like soldiers, but like riot police. Indiscriminate. heavy.
+
+"Citizen," the lead unit boomed, its voice a recorded loop of her father's tone. "Curfew is active. Compliance is mandatory."
+
+The first squad of city guards engaged them.
+
+"We are compliant!" a captain shouted. "We are simply—"
+
+The automata opened fire.
+
+It wasn't a fight. It was a purge.
 
 The first squad of city guards engaged them.
 
 It wasn't a fight. It was an erasure.
 
-Violet beams dissected the air. The guards’ shields flared and failed instantly. Three men fell before they could raise their rifles.
+Slugs tore through the street. The guards’ shields flared and failed. Three men fell before they could raise their rifles.
 
 "Now," Ksena whispered from the rooftop above.
 
 Alcuin triggered the remote charges.
 
-The fountain plaza detonated. The street collapsed into the drainage tunnels below, taking the Ancestral squad with it.
+The fountain plaza detonated. The street collapsed into the drainage tunnels below, taking the Peacekeeper squad with it.
 
 "First blood to us," Alcuin said, though his grim expression didn't change.
 
@@ -78,9 +114,11 @@ In the basement of a tailor shop in the Fourth District, Mara held her two child
 
 "Get away from the window," Mara hissed, pulling him back.
 
-Outside, the sound of heavy footsteps echoed on the cobblestones. *Clank. Clank. Clank.* Not human steps. Machine steps.
+Outside, the sound of heavy footsteps echoed on the cobblestones. *Clank. Clank. Clank.* The heavy thud of ceramic boots.
 
-A beam of violet light sliced through the shop door, melting the wood instantly.
+"Unit 774 patrolling," a synthesized voice announced. "Bio-scans active."
+
+A beam of red scanning light sliced through the shop door.
 
 Mara put a hand over her mouth.
 
